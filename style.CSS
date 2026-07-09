@@ -1,21 +1,28 @@
-header { 
-    background-color:#183C63;
-    color: #FFFFFF;
-    text-align: center; 
-     max-width: 800px;
-    margin: 0 auto;
-    padding: 16px;
- } 
-         
-main { 
-    background-color: #FFFFFF;
-    color: #183C63;
+header {
+    background-color:#00ecec;
+    color: #ff8800;
+    text-align: center;
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
-   } 
-   
- img {
-     width: 280px;
-    height: 280px; 
+}
+
+main {
+    background-color: #c5faf3;
+    color: #63a0e0;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+}
+img{
+    display: block;
+    width: 250px;
+    margin: 0 auto;
+    border: 4px solid #090435;
+    height: 300px ;
 }
