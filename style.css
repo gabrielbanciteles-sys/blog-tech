@@ -5,8 +5,8 @@ body {
 }
 
 header {
-    background-color: #b4cbc5; /* cor de fundo */
-    color: #163f8b; /* cor da fonte */
+    background-color: #c9b025; /* cor de fundo */
+    color: #3d1136; /* cor da fonte */
     text-align: center; /* centraliza o texto horizontalmente */
     max-width: 800px; /* define a largura máxima que o elemento pode ter */
     margin: 0 auto; /* centraliza o bloco inteiro na tela */
@@ -18,8 +18,8 @@ h1 {
 }
 
 main {
-    background-color: #e90a54;
-    color: #1618c0;
+    background-color: #3f0217;
+    color: #ee10e3;
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
@@ -33,7 +33,7 @@ article {
 img {
     width: 150px; /* define a largura fixa da imagem */
     height: 150px; /* define a altura fixa da imagem */
-    border: 2px solid #65128b; /* adiciona uma borda sólida de 2px na cor azul/roxa */
+    border: 2px solid #ee4bd3; /* adiciona uma borda sólida de 2px na cor azul/roxa */
     display: block; /* transforma a imagem em um bloco para aceitar margens verticais e quebras */
     margin: 0 auto; /* centraliza a imagem horizontalmente na tela */
     align-self: center;
@@ -49,9 +49,9 @@ img {
 
 footer {
     background-color: #b4cbc5; /* Mesma cor escura do texto do header para combinar */
-    color: #16139c; /* Cor da fonte branca para dar contraste e leitura */
+    color: #7c9b43; /* Cor da fonte branca para dar contraste e leitura */
     text-align: center; /* Centraliza o texto horizontalmente */
-    max-width: 800px; /* Mantém o mesmo alinhamento do header e do main */
+    max-width: 800px; /* Mantém o mesmo alinhamento do header e do main */s
     margin: 0 auto; /* Centraliza o bloco inteiro na tela */
     padding: 20px; /* Cria um espaçamento interno para o fundo aparecer */
     font-size: 14px; /* Deixa o texto do rodapé um pouco menor e discreto */
